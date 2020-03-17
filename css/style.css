@@ -270,14 +270,13 @@ h3{
   background-image: url('../img/concert.jpg');
   margin-top: 20px;
   /* Set a specific height */
-  height: 250px;
+  height: 0px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  display: none;
 }
 
 
@@ -329,7 +328,7 @@ nav{
   border-radius: 25%;
 }
 
-/*START TABLET/DESKTOP GRID*/
+/*START TABLET GRID*/
 
 
 .production{
