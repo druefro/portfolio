@@ -328,6 +328,17 @@ nav{
   border-radius: 25%;
 }
 
+.resume{
+  font-family: 'Josefin Sans', sans-serif;
+  color: black;
+  text-decoration: underline;
+  font-size: 2em;
+  text-align: center;
+  margin: 5px 5px 5px 5px;
+  display: block;
+
+}
+
 /*START TABLET GRID*/
 
 
